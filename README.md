@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/8b49g9x/Untitled-2.png" alt="Amrit's custom header"/>
+  <img src="https://i.ibb.co/Yhbm3TY/Untitled-3.png" alt="Amrit's custom header"/>
 </p>
 
-### <p align="center">Hello! I'm Amrit and I'm Software Developer based in London.</p>
+
 <p align="center">You can reach me at amritatwal04@gmail.com</p>
 
 <p align="center">
