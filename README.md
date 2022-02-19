@@ -2,7 +2,8 @@
   <img src="https://i.ibb.co/8b49g9x/Untitled-2.png" alt="Amrit's custom header"/>
 </p>
 
-<p align="center">You can reach me at: amritatwal04@gmail.com</p>
+### <p align="center">Hello! I'm Amrit and I'm Software Developer based in London.</p>
+<p align="center">You can reach me at amritatwal04@gmail.com</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amrit-atwal-1ba0b4209/" target="_blank">
@@ -23,6 +24,6 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<code>Web design and coding has been a form of art and self-expression for me since I was a little kid. After self-teaching and graduating from the School of Code in 2022, I embraced my potential and reinvented myself as Full-Stack React Developer. Besides working on my own personal projects, I am looking to contribute to more open-source and eager to collaborate with other devs to accelerate my own learning.</code> 
+<code>Web design and coding has been a form of art and self-expression for me since I was a little kid. After self-teaching and graduating from the School of Code in 2022, I embraced my potential and reinvented myself as Software Developer. Besides working on my own personal projects, I am looking to contribute to more open-source and eager to collaborate with other devs to accelerate my own learning.</code> 
 
 <code>I am hugely interested in exploring the interrelationship between art, design and web development, in addition to wanting to help make learning to code more accessible. Away from coding most of my time is dedicated to running 5ks, reading and screaming obscenities at my football team.</code> 
