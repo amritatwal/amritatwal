@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/amrit-atwal-1ba0b4209/" target="_blank">
     <img src="https://i.ibb.co/hRQMWCk/icons8-linkedin-24-2.png" alt="linkedin icon"/>
   </a>
-   <a href="https://amritatwal.netlify.app/" target="_blank">
+<!--    <a href="https://amritatwal.netlify.app/" target="_blank">
     <img src="https://i.ibb.co/DGrbXMM/icons8-website-24-3.png" alt="website icon"/>
-  </a>
+  </a> -->
 </p> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
