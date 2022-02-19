@@ -25,4 +25,4 @@
 
 <code>Web design and coding has been a form of art and self-expression since I was a little kid. After self-teaching and graduating from the School of Code in 2022, I was able to realise my potential and have reinvented myself as Full-Stack React Developer. Besides working on my own personal projects, I am looking to contribute to more open-source projects and eager to collaborate with other developers to accelerate my learning.</code> 
 
-<code>I have a huge interest in explorating the interrelationship between art, design and web development, in addition to help make learning to code more accessible. Away from programming most of my time is dedicated to running, reading and screaming obscenities at my football team.</code> 
+<code>I have a huge interest in explorating the interrelationship between art, design and web development, in addition to help make learning to code more accessible. Away from coding most of my time is dedicated to running, reading and screaming obscenities at my football team.</code> 
