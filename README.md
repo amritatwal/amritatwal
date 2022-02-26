@@ -28,10 +28,14 @@
 
 <code>I am hugely interested in exploring the interrelationship between art, design and web development, in addition to wanting to help make learning to code more accessible. Away from coding most of my time is dedicated to running 5ks, reading and screaming obscenities at my football team.</code> 
 
-### Sample Projects
+### Featured Projects
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Y38kWDt/ezgif-com-gif-maker-3.gif" alt="ezgif-com-gif-maker-3" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Y38kWDt/ezgif-com-gif-maker-3.gif" alt="ezgif-com-gif-maker-3" border="0"></a> 
 
-**wordsearch** 
+**wordsearch** An online word lookup.
 
 [Live](https://onlinewordsearch.netlify.app) | Repository 
+
+**Get off the screen!** An Google Chrome extension/TBC.
+
+[Live](https://somelinkhere.com) | Repository 
