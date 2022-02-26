@@ -27,3 +27,12 @@
 <code>Web design and coding has been a form of art and self-expression for me since I was a little kid. After self-teaching and graduating from the School of Code in 2022, I embraced my potential and reinvented myself as Software Developer. Besides working on my own personal projects, I am looking to contribute to more open-source and eager to collaborate with other devs to accelerate my own learning.</code> 
 
 <code>I am hugely interested in exploring the interrelationship between art, design and web development, in addition to wanting to help make learning to code more accessible. Away from coding most of my time is dedicated to running 5ks, reading and screaming obscenities at my football team.</code> 
+
+### Projects
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zQ5PtnS/ezgif-com-gif-maker-1.gif" alt="ezgif-com-gif-maker-1" border="0"></a>
+
+
+**wordsearch** 
+
+[Live](https://onlinewordsearch.netlify.app) | Repository 
