@@ -32,7 +32,9 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Y38kWDt/ezgif-com-gif-maker-3.gif" alt="ezgif-com-gif-maker-3" border="0"></a> 
 
-**wordsearch** An online word lookup.
+**wordsearch** 
+
+An online word lookup.
 
 [Live](https://onlinewordsearch.netlify.app) | Repository 
 
