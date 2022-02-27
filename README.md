@@ -38,6 +38,8 @@ An online word lookup.
 
 [Live](https://onlinewordsearch.netlify.app) | Repository 
 
-**Get off the screen!** An Google Chrome extension/TBC.
+**Get off the screen!** 
+
+An Google Chrome extension/TBC.
 
 [Live](https://somelinkhere.com) | Repository 
