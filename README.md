@@ -40,6 +40,6 @@ An online word lookup.
 
 **Get off the screen!** 
 
-An Google Chrome extension/TBC.
+A Google Chrome extension/TBC.
 
 [Live](https://somelinkhere.com) | Repository 
