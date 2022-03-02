@@ -24,7 +24,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-Web design and coding has been a form of art and self-expression for me since I was a little kid. I embraced my potential through self-teaching and graduating from the School of Code, where I reinvented myself as Software Developer. Besides working on my own personal projects, I am looking to contribute to more open-source and eager to collaborate with other devs to accelerate my own learning. 
+Web design and coding has been a form of art and self-expression for me since I was a little kid. I embraced my potential, and through self-teaching and graduating from the School of Code, I reinvented myself as Software Developer. Besides working on my own personal projects, I am looking to contribute to more open-source and eager to collaborate with other devs to accelerate my own learning. 
 
 I am hugely interested in exploring the interrelationship between art, design and web development, in addition to wanting to help make learning to code more accessible. Away from coding most of my time is dedicated to running 5ks, reading and screaming obscenities at my football team. 
 
