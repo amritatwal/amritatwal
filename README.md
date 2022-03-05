@@ -38,7 +38,7 @@ An online word lookup.
 
 [Live](https://onlinewordsearch.netlify.app) | [Repository](https://github.com/amritatwal/onlinedictionary)
 
-**Get off the screen!** 
+**get off the screen!** 
 
 A Google Chrome extension/TBC.
 
