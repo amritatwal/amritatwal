@@ -42,4 +42,4 @@ An online word lookup.
 
 A Google Chrome extension/TBC.
 
-[Live](https://somelinkhere.com) | Repository 
+[Live](https://somelinkhere.com) | [Repository](https://github.com/amritatwal/getoffthescreen)
