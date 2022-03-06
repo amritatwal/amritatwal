@@ -31,7 +31,7 @@ I am hugely interested in exploring the interrelationship between art, design an
 
 An online word lookup.
 
-[Live](https://onlinewordsearch.netlify.app) | [Repository](https://github.com/amritatwal/onlinedictionary)
+[Live](https://onlinewordsearch.netlify.app) | [Repository](https://github.com/amritatwal/wordsearch)
 
 **get off the screen!** 
 
