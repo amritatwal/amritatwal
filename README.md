@@ -30,8 +30,6 @@ I am hugely interested in exploring the interrelationship between art, design an
 
 ### Featured Projects
 
-<img src="https://i.ibb.co/C8b7WbW/ezgif-com-gif-maker-9.gif" alt="live-demo-of-app">
-
 **wordsearch** 
 
 An online word lookup.
@@ -42,6 +40,6 @@ An online word lookup.
 
 A Google Chrome extension/TBC.
 
-<img src="https://i.ibb.co/FHZ57Gn/ezgif-com-gif-maker-8.gif" alt="live-demo-of-app">
+<img src="https://i.ibb.co/FHZ57Gn/ezgif-com-gif-maker-8.gif" alt="live-demo-of-app"/>
 
 TBC | [Repository](https://github.com/amritatwal/getoffthescreen)
