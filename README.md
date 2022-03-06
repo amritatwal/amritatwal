@@ -37,6 +37,4 @@ An online word lookup.
 
 A Google Chrome extension/TBC.
 
-<img src="https://i.ibb.co/FHZ57Gn/ezgif-com-gif-maker-8.gif" alt="live-demo-of-app"/>
-
 TBC | [Repository](https://github.com/amritatwal/getoffthescreen)
