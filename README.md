@@ -27,6 +27,12 @@ I am hugely interested in exploring the interrelationship between art, design an
 
 ### Featured Projects
 
+**{co:llab}** 
+
+Final project, SoC
+
+TBC | Repository TBC
+
 **wordsearch** 
 
 An online word lookup.
