@@ -3,12 +3,9 @@
 </p>
 
 
-<p align="center">You can reach me at amritatwal04@gmail.com</p>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/amrit-atwal-1ba0b4209/" target="_blank">
-    <img src="https://i.ibb.co/hRQMWCk/icons8-linkedin-24-2.png" alt="linkedin icon"/>
-  </a>
+  You can reach me at amritatwal04@gmail.com or message me on <a href="https://www.linkedin.com/in/amrit-atwal-1ba0b4209/" target="_blank"><img src="https://i.ibb.co/hRQMWCk/icons8-linkedin-24-2.png" alt="linkedin icon"/></a>
+</p>
 <!--    <a href="https://amritatwal.netlify.app/" target="_blank">
     <img src="https://i.ibb.co/DGrbXMM/icons8-website-24-3.png" alt="website icon"/>
   </a> -->
