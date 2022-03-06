@@ -30,7 +30,7 @@ I am hugely interested in exploring the interrelationship between art, design an
 
 ### Featured Projects
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Y38kWDt/ezgif-com-gif-maker-3.gif" alt="ezgif-com-gif-maker-3" border="0"></a> 
+<img src="https://i.ibb.co/C8b7WbW/ezgif-com-gif-maker-9.gif" alt="live-demo-of-app">
 
 **wordsearch** 
 
@@ -41,5 +41,7 @@ An online word lookup.
 **get off the screen!** 
 
 A Google Chrome extension/TBC.
+
+<img src="https://i.ibb.co/FHZ57Gn/ezgif-com-gif-maker-8.gif" alt="live-demo-of-app">
 
 TBC | [Repository](https://github.com/amritatwal/getoffthescreen)
