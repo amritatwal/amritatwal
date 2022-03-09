@@ -41,6 +41,6 @@ An online word lookup.
 
 **get off the screen!** 
 
-A Google Chrome extension/TBC.
+A Google Chrome extension.
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/get-off-the-screen/mlongojboappdcnjljdpdejdbhfmbfge) | [Repository](https://github.com/amritatwal/getoffthescreen)
