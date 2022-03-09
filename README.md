@@ -43,4 +43,4 @@ An online word lookup.
 
 A Google Chrome extension/TBC.
 
-TBC | [Repository](https://github.com/amritatwal/getoffthescreen)
+[Chrome Web Store](https://chrome.google.com/webstore/detail/get-off-the-screen/mlongojboappdcnjljdpdejdbhfmbfge) | [Repository](https://github.com/amritatwal/getoffthescreen)
