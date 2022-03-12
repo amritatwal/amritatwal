@@ -31,7 +31,7 @@ I am hugely interested in exploring the interrelationship between art, design an
 
 Final project, SoC
 
-[Live](https://co-llab.netlify.app/) | Repository TBC
+[Live](https://co-llab.netlify.app/) | [Repository](https://github.com/SchoolOfCode/final-project-repo-hugs-for-bugs)
 
 **wordsearch** 
 
