@@ -44,3 +44,5 @@ An online word lookup.
 A Google Chrome extension.
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/get-off-the-screen/mlongojboappdcnjljdpdejdbhfmbfge) | [Repository](https://github.com/amritatwal/getoffthescreen)
+
+Also feel free to play my Scratch game [Devin's Date] (https://scratch.mit.edu/projects/561510526/)!
