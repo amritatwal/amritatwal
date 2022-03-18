@@ -45,3 +45,5 @@ A Google Chrome extension.
 
 [Chrome Web Store](https://chrome.google.com/webstore/detail/get-off-the-screen/mlongojboappdcnjljdpdejdbhfmbfge) | [Repository](https://github.com/amritatwal/getoffthescreen)
 
+### Future Projects
+
