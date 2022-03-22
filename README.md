@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/Yhbm3TY/Untitled-3.png" alt="Amrit's custom header"/>
+  <img src="https://i.ibb.co/m4C56C2/Untitled.png" alt="Amrit's custom header"/>
 </p>
 
 
