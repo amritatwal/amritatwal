@@ -49,7 +49,7 @@ A Google Chrome extension.
 
 **Gist**
 
-Gist is a early 00s inspired instant messaging application made with socket.io. Have a look at some [early prototypes](https://github.com/amritatwal/gistapp) if you're nosy.
+Gist is a early 00s inspired instant messaging application made with socket.io. Have a look at some _very_ [early prototypes](https://github.com/amritatwal/gistapp) if you're feeling nosy.
 
 **One of the Girls**
 
