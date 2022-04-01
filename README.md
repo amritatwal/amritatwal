@@ -55,3 +55,7 @@ Gist is a early 00s inspired instant messaging application made with socket.io. 
 **One of the Girls**
 
 OOTG is an application that will enable female football supporters to connect with each other. The idea for this application has been simmering away in my head since the start of Covid-19. After realising the complete lack of female friends I have to talk football with, I chose to take it upon myself to help women out there to create new like-minded friends, set up supporters' groups and organise kickabouts. 
+
+**Contributions made to open-source**
+
+⭐️ [Expo documentation](https://github.com/expo/expo)
