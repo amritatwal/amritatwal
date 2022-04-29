@@ -26,7 +26,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![CodeWars](https://www.codewars.com/users/amritatwal/badges/small)
 
 Web design and coding has been a form of art and self-expression for me since I was a little kid. I embraced my potential, and through self-teaching and graduating from the School of Code, I reinvented myself as Software Developer. Besides working on my own personal projects, I am looking to contribute to more open-source and eager to collaborate with other devs to accelerate my own learning. 
 
@@ -59,12 +58,6 @@ A Google Chrome extension.
 **Developing**: Gist
 
 Gist is a early 00s inspired instant messaging application made with socket.io. Have a look at some _very_ [early prototypes](https://github.com/amritatwal/gist) if you're feeling nosy.
-
-### Future Projects
-
-**One of the Girls**
-
-OOTG is an application that will enable female football supporters to connect with each other. The idea for this application has been simmering away in my head since the start of Covid-19. After realising the complete lack of female friends I have to talk football with, I chose to take it upon myself to help women out there to create new like-minded friends, set up supporters' groups and organise kickabouts. 
 
 ### Contributions made to open-source
 
