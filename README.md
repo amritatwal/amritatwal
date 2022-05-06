@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  I appreciate feedback, always. You can provide it anonymously at <a href="https://www.admonymous.co/amritatwal">admonymous.co/amritatwal</a>
+  I appreciate feedback, always. You can even provide it anonymously at <a href="https://www.admonymous.co/amritatwal">admonymous.co/amritatwal</a>
 </p>
 
 
