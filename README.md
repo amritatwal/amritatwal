@@ -63,4 +63,4 @@ Gist is a early 00s inspired instant messaging application made with socket.io. 
 
 ### Contributions made to open-source
 
-⭐️ [Expo documentation](https://github.com/expo/expo)
+[Expo documentation](https://github.com/expo/expo), [TypeScript Error Translator](https://github.com/mattpocock/ts-error-translator)
