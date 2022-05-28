@@ -57,9 +57,7 @@ A Google Chrome extension.
 
 **Learning**: TypeScript, React Native and Firebase.
 
-**Developing**: Gist
-
-Gist is a early 00s inspired instant messaging application made with socket.io. Have a look at some _very_ [early prototypes](https://github.com/amritatwal/gist) if you're feeling nosy.
+**Developing**: [Bluffball](https://github.com/amritatwal/bluffballapi) & [Gist](https://github.com/amritatwal/gist)!
 
 ### Contributions made to open-source
 
