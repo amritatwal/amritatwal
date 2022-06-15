@@ -57,7 +57,7 @@ A Google Chrome extension.
 
 **Learning**: TypeScript, React Native and Firebase.
 
-**Developing**: [Bluffball](https://github.com/amritatwal/bluffballapi) & [Gist](https://github.com/amritatwal/gist)!
+**Developing**: [Bluffball](https://github.com/amritatwal/bluffball) (and the API is [here!](https://github.com/amritatwal/bluffballapi))
 
 ### Contributions made to open-source
 
