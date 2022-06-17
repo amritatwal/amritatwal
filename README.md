@@ -41,17 +41,18 @@ Final project, SoC
 
 [Live](https://co-llab.netlify.app/) | [Repository](https://github.com/SchoolOfCode/final-project-repo-hugs-for-bugs)
 
+**Bluffball** (_ongoing_)
+
+A full-stack application using React and Next to bring the IT Crowd's fictional website 'Bluffball' to life.
+
+[Live](https://bluffball.netlify.app/) | [Repository](https://github.com/amritatwal/bluffball)
+
 **wordsearch** 
 
 An online word lookup.
 
 [Live](https://onlinewordsearch.netlify.app) | [Repository](https://github.com/amritatwal/wordsearch)
 
-**get off the screen!** 
-
-A Google Chrome extension.
-
-[Chrome Web Store](https://chrome.google.com/webstore/detail/get-off-the-screen/mlongojboappdcnjljdpdejdbhfmbfge) | [Repository](https://github.com/amritatwal/getoffthescreen)
 
 ### Currently...
 
