@@ -43,7 +43,7 @@ Final project, SoC
 
 **Bluffball** (_ongoing_)
 
-A full-stack application using React and Next to bring the IT Crowd's fictional website 'Bluffball' to life.
+A full-stack application using React and Next aiming to bring The IT Crowd's fictional website 'Bluffball' to life.
 
 [Live](https://bluffball.netlify.app/) | [Repository](https://github.com/amritatwal/bluffball)
 
