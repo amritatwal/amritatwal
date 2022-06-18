@@ -47,11 +47,17 @@ A full-stack application using React and Next aiming to bring The IT Crowd's fic
 
 [Live](https://bluffball.netlify.app/) | [Repository](https://github.com/amritatwal/bluffball)
 
+**Gist** (_ongoing_)
+
+A chat app built with React Native, TypeScript and Firebase.
+
+[Live](TBC) | [Repository](https://github.com/amritatwal/gist)
+
 **wordsearch** 
 
 An online word lookup.
 
-[Live](https://onlinewordsearch.netlify.app) | [Repository](https://github.com/amritatwal/wordsearch)
+Not hosted yet | [Repository](https://github.com/amritatwal/wordsearch)
 
 
 ### Currently...
