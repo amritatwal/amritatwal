@@ -64,7 +64,7 @@ Not hosted yet | [Repository](https://github.com/amritatwal/wordsearch)
 
 **Learning**: TypeScript, React Native and Firebase.
 
-**Developing**: [Bluffball](https://github.com/amritatwal/bluffball) (and the API is [here!](https://github.com/amritatwal/bluffballapi))
+**Developing**: [Bluffball](https://github.com/amritatwal/bluffball) (and the API is [here!](https://github.com/amritatwal/bluffballapi)), [Gist](https://github.com/amritatwal/gist)
 
 ### Contributions made to open-source
 
