@@ -51,13 +51,13 @@ A full-stack application using React and Next aiming to bring The IT Crowd's fic
 
 A chat app built with React Native, TypeScript and Firebase.
 
-TBC | [Repository](https://github.com/amritatwal/gist)
+Live demo TBC | [Repository](https://github.com/amritatwal/gist)
 
 **wordsearch** 
 
 An online word lookup.
 
-Not hosted yet | [Repository](https://github.com/amritatwal/wordsearch)
+[Live](https://onlinewordsearch.netlify.app)| [Repository](https://github.com/amritatwal/wordsearch)
 
 
 ### Currently...
