@@ -51,7 +51,7 @@ A full-stack application using React and Next aiming to bring The IT Crowd's fic
 
 A chat app built with React Native, TypeScript and Firebase.
 
-[Live](TBC) | [Repository](https://github.com/amritatwal/gist)
+TBC | [Repository](https://github.com/amritatwal/gist)
 
 **wordsearch** 
 
