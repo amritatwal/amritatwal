@@ -57,7 +57,7 @@ Live demo TBC | [Repository](https://github.com/amritatwal/gist)
 
 An online word lookup.
 
-[Live](https://onlinewordsearch.netlify.app)| [Repository](https://github.com/amritatwal/wordsearch)
+[Live](https://onlinewordsearch.netlify.app) | [Repository](https://github.com/amritatwal/wordsearch)
 
 
 ### Currently...
