@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  Find my design work over at <a href="https://www.dribbble.com/amritatwal">dribbble</a>. You can reach me at amritatwal04@gmail.com or message me on <a href="https://www.linkedin.com/in/amrit-atwal-1ba0b4209/" target="_blank"><img src="https://i.ibb.co/hRQMWCk/icons8-linkedin-24-2.png" alt="linkedin icon"/></a>
+  You can reach me at amritatwal04@gmail.com or message me on <a href="https://www.linkedin.com/in/amrit-atwal-1ba0b4209/" target="_blank"><img src="https://i.ibb.co/hRQMWCk/icons8-linkedin-24-2.png" alt="linkedin icon"/></a>
 </p>
 
 <p align="center">
@@ -65,6 +65,8 @@ An online word lookup.
 **Learning**: TypeScript, React Native and Firebase.
 
 **Developing**: [Bluffball](https://github.com/amritatwal/bluffball) (and the API is [here!](https://github.com/amritatwal/bluffballapi)), [Gist](https://github.com/amritatwal/gist)
+
+Find my design work over at <a href="https://www.dribbble.com/amritatwal">dribbble</a>.
 
 ### Contributions made to open-source
 
