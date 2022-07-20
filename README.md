@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/m4C56C2/Untitled.png" alt="Amrit's custom header"/>
-</p>
-
-
-<p align="center">
-  You can reach me at amritatwal04@gmail.com or message me on <a href="https://www.linkedin.com/in/amrit-atwal-1ba0b4209/" target="_blank"><img src="https://i.ibb.co/hRQMWCk/icons8-linkedin-24-2.png" alt="linkedin icon"/></a>
-</p>
-
-<p align="center">
-  I appreciate feedback, always. You can even provide it anonymously at <a href="https://www.admonymous.co/amritatwal">admonymous.co/amritatwal</a>
-</p>
 
 
 <!--    <a href="https://amritatwal.netlify.app/" target="_blank">
